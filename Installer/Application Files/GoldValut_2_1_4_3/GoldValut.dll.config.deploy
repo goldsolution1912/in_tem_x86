@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+        <sectionGroup name="userSettings" type="System.Configuration.UserSettingsGroup, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" >
+            <section name="GoldValut.Properties.Settings" type="System.Configuration.ClientSettingsSection, System, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" allowExeDefinition="MachineToLocalUser" requirePermission="false" />
+        </sectionGroup>
+    </configSections>
+    <userSettings>
+        <GoldValut.Properties.Settings>
+            <setting name="ScaleBaudRate" serializeAs="String">
+                <value>120</value>
+            </setting>
+            <setting name="ScalePort" serializeAs="String">
+                <value />
+            </setting>
+            <setting name="ScaleInputRule" serializeAs="String">
+                <value>0</value>
+            </setting>
+            <setting name="ScaleStopBits" serializeAs="String">
+                <value>1</value>
+            </setting>
+        </GoldValut.Properties.Settings>
+    </userSettings>
+</configuration>
